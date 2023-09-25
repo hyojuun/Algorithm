@@ -1,2 +1,2 @@
 # Algorithm
-Algorithm, Coding Test, Data Sturcture
+Algorithm study, Coding Test, Data Sturcture
